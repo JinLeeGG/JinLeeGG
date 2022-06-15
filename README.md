@@ -11,7 +11,10 @@
 - 😄 Pronouns: **He/Him/His**
 - ⚡ Fun fact: **I love to play FPS games and watch anime**
 
-<h1 align="center">My programming Languages and Tools</h1>  
+<br>
+<br>
+
+<h1 align="center">🛠️ My programming Languages and Tools 🛠️</h1>  
 <p align="center"> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="80" height="60"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="80" height="60"/> </a> 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="80" height="60"/> </a>
@@ -20,9 +23,11 @@
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> 
  <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="80" height="60"/> </a> 
   <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="80" height="60"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="80" height="60"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="80" height="60"/> </a> </p>
-  
+ 
+<br>
+<br>
 
-<h1 align="center">My Github Stats</h1>  
+<h1 align="center">📊 My Github Stats 📊</h1>  
 
 > “Experience is the name everyone gives to their mistakes.”
 – Oscar Wilde_
@@ -38,7 +43,7 @@
 
 </a>
 
-<h1 align="center">Contact me</h1>  
+<h1 align="center">📱 Contact me 📱</h1>  
 <p align="left">  
 <a href="https://www.linkedin.com/in/gyujin-lee-9aa707241/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gyujin (john) lee" height="40" width="50" /></a>  
 <a href="https://instagram.com/gyujin_lee.java" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gyujin_lee.java" height="40" width="50" /></a>  
