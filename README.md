@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on **Youtube**.
 - 🤔 I’m looking for help with **Unity and Java**.
 - 💬 Ask me about **computer and any tech related questions**.
-- 📫 How to reach me: @Gmail - gjlee99211@gmail.com / [Instagram - @gyujin_lee.java](https://www.instagram.com/gyujin_lee.java/) / @discord - JinLee#8737
+- 📫 How to reach me: [Gmail - gjlee99211@gmail.com](gjlee99211@gmail.com) / [Instagram - @gyujin_lee.java](https://www.instagram.com/gyujin_lee.java/) / discord - JinLee#8737
 - 😄 Pronouns: **He/Him/His**
 - ⚡ Fun fact: **I love to play FPS games and watch anime**
 
@@ -45,6 +45,23 @@
 
 <br>
 <br>
+
+<h1 align="center">📱 My current Work 📱</h1>  
+<h3>What I do? 💻</h3>
+<details>
+<summary>VR Software/Games 👓 </summary>
+<ul>
+  <li><a href="https://github.com">Vr-ShootingGame</a></li>
+  <li><a href="https://github.com">Vr-interface</a></li>
+</ul>
+</details>
+<details>
+<summary>Discord Bot Development 📡 </summary>
+  <ul>
+    <li><a href="https://github.com">MyFirstBot</a></li>
+    <li><a href="https://github.com">YuikaBot</a></li>
+  </ul>
+</details>
 
 <h1 align="center">📱 Contact me 📱</h1>  
 <p align="left">  
