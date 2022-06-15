@@ -51,4 +51,4 @@
 <a href="https://www.linkedin.com/in/gyujin-lee-9aa707241/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gyujin (john) lee" height="40" width="50" /></a>  
 <a href="https://instagram.com/gyujin_lee.java" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gyujin_lee.java" height="40" width="50" /></a>  
 <a href="https://discord.gg/YWRzarbys4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="JinLee#8737" height="50" width="60" /></a>  
-</p>  
+
