@@ -43,6 +43,9 @@
 
 </a>
 
+<br>
+<br>
+
 <h1 align="center">📱 Contact me 📱</h1>  
 <p align="left">  
 <a href="https://www.linkedin.com/in/gyujin-lee-9aa707241/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gyujin (john) lee" height="40" width="50" /></a>  
