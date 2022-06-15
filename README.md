@@ -46,7 +46,7 @@
 <br>
 <br>
 
-<h1 align="center">📱 My current Work 📱</h1>  
+<h1 align="center">🐱‍💻 My current Work 🐱‍💻</h1>  
 <h3>What I do? 💻</h3>
 <details>
 <summary>VR Software/Games 👓 </summary>
