@@ -2,6 +2,14 @@
 <h1 align = "center">Hello World! I am GyuJin(John) Lee </a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"></h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jinleegg&label=Profile%20views&color=0e75b6&style=flat" alt="jinleegg" /> </p>   
 
+<h3>About me</h3>
+<details>
+  <summary>Who are you? 👨</summary>
+  <pre>
+   I am a programmer who loves to make software and games and also playing with it 😁 
+  </pre>
+</details>
+
 - 🔭 I’m currently working on **making VR game/software**.
 - 🌱 I’m currently learning **C++ and Unreal engine**.
 - 👯 I’m looking to collaborate on **Youtube**.
