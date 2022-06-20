@@ -7,6 +7,8 @@
 
 <a herf="mailto:gjlee99211@gmail.com"><img src="https://img.shields.io/badge/Gmail-GyuJinLee-red?logo=gmail&logoColor=white&link=mailto:gjlee99211@gmail.com"/></a>
 
+<a href="mailto:gjlee99211@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white&link=mailto:gjlee99211@gmail.com"/></a>
+
 <a herf="https://www.facebook.com/profile.php?id=100015853840100"><img src="https://img.shields.io/badge/-Lee GyuJin-blue?logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100015853840100"/></a>
 
 <a herf="https://www.linkedin.com/in/gyujin-lee-9aa707241/"><img src="https://img.shields.io/badge/-GyuJinLee-blue?logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/gyujin-lee-9aa707241/"/></a>
