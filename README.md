@@ -2,9 +2,11 @@
 <img src="https://github.com/JinLeeGG/JinLeeGG/blob/main/My project.png" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jinleegg&label=Profile%20views&color=0e75b6&style=flat" alt="jinleegg" /> </p>   
-<h3>About me</h3>
+
+### <img src="https://media3.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif?cid=ecf05e47rq2xrsqrl9xzn0k9ddthmj90lkic8xzujbmf7ztn&rid=giphy.gif&ct=s" width="50">A Little About Me:
+
 <details>
-  <summary>Who are you? 👨</summary>
+  <summary>Who are you? <img src="https://media1.giphy.com/media/x49DCuOOBiurrmlEov/giphy_s.gif?cid=ecf05e47jyrow51s08g420bjj6yq4skc3b0tjgzihd4pgse6&rid=giphy_s.gif&ct=s" > </summary>
   <pre>
    I am a programmer who loves to make software and games and also playing with it 😁 
   </pre>
@@ -26,7 +28,12 @@ const GyuJin = {
   askMe: "Computer and any tech related questions",
 }
 ```
+<iframe src="https://giphy.com/embed/5eLDrEaRGHegx2FeF2" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/transparent-5eLDrEaRGHegx2FeF2">via GIPHY</a></p>
 
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/5eLDrEaRGHegx2FeF2" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/transparent-5eLDrEaRGHegx2FeF2">via GIPHY</a></p>
+
+<iframe src="https://giphy.com/embed/5eLDrEaRGHegx2FeF2" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/transparent-5eLDrEaRGHegx2FeF2">via GIPHY</a></p>
+https://media3.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif?cid=ecf05e47rq2xrsqrl9xzn0k9ddthmj90lkic8xzujbmf7ztn&rid=giphy.gif&ct=s
 <br>
 <br>
 
