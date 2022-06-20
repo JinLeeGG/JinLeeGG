@@ -9,20 +9,21 @@
 <a herf="https://www.linkedin.com/in/gyujin-lee-9aa707241/"><img src="https://img.shields.io/badge/-GyuJinLee-blue?logo=linkedin&logoColor=white">
 <a herf="https://discord.gg/YWRzarbys4"><img src="https://img.shields.io/badge/-CodeLab-purple?logo=discord&logoColor=white">
 [![GitHub: JinLeeGG](https://img.shields.io/github/followers/JinLeeGG?style=social)](https://github.com/JinLeeGG)
-
-
+  
+  
 <img src="https://media0.giphy.com/media/7DILedCoTwhFQY6ed6/giphy.gif?cid=ecf05e479sqeiyce6r6irzo0l1w40k15i7twj79smi30oovp&rid=giphy.gif&ct=s" width="60"> <em><b>I love coding with other people and share information!</b> if you want to talk to <b>me more, I'll be happy to chat with you!</b> </em>
 
 <br>
 
-<h1 align="left"><img src="https://media1.giphy.com/media/12PXNbcHW8C9Bm/giphy.gif?cid=ecf05e47jyrow51s08g420bjj6yq4skc3b0tjgzihd4pgse6&rid=giphy.gif&ct=s" width="50"> A little more about me...</h1>  
+<h1 align="left"><img src="https://media1.giphy.com/media/12PXNbcHW8C9Bm/giphy.gif?cid=ecf05e47jyrow51s08g420bjj6yq4skc3b0tjgzihd4pgse6&rid=giphy.gif&ct=s" width="50"> A little more about me...</h1>
+  
 
 <details>
   <summary>Who am I? 😉 </summary>
   <pre>
-  I am a programmer who loves to make software and games and also playing with it 😁 
-  Currently going to Dickinson College and majoring Computer Science and Math.
-  I hope to make Virtual Reality software or games in the future!
+   I am a programmer who loves to make software and games and also playing with it 😁 
+   Currently going to Dickinson College and majoring Computer Science and Math.
+   I hope to make Virtual Reality software or games in the future!
   </pre>
 </details>
 
@@ -63,11 +64,11 @@ const GyuJin = {
 
 > “Experience is the name everyone gives to their mistakes.”
 – Oscar Wilde_
-
+<img align='right' src="https://media1.giphy.com/media/pQkgcbJTrvg1B3hJXv/giphy.gif?cid=ecf05e47spt9z3fqtsw54s6rtdi23eyho91gvvoajrz58908&rid=giphy.gif&ct=s" width = 250>
 <img src="https://github-readme-stats.vercel.app/api?username=JinLeeGG&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 > “Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday’s code.” – Dan Salomon_
-
+  
 <a href="https://github.com/jstrieb/github-stats">
   
 ![](https://github.com/JinLeeGG/githubstats/blob/master/generated/languages.svg#gh-dark-mode-only)
@@ -80,7 +81,7 @@ const GyuJin = {
 
 
 
-<h1 align="center"><img src="https://media2.giphy.com/media/ryRe2vuYIQ3RQ5eMtY/giphy.gif?cid=ecf05e47xj5cxvke22ww6k0o425tawddvcjgqutxu1hrfzh3&rid=giphy.gif&ct=s" width="100">🐱‍💻 My current Work 🐱‍💻</h1>  
+<h1 align="center">🐱‍💻 My current Work 🐱‍💻</h1>  
 <h3>What I do? 💻</h3>
 <details>
 <summary>VR Software/Games 👓 </summary>
