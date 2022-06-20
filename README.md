@@ -1,14 +1,28 @@
 
 <img src="https://github.com/JinLeeGG/JinLeeGG/blob/main/My project.png" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jinleegg&label=Profile%20views&color=0e75b6&style=flat" alt="jinleegg" /> </p>   
+<p align="left"><img src="https://komarev.com/ghpvc/?username=jinleegg&label=Profile%20views&color=0e75b6&style=flat" alt="jinleegg" /> </p>   
 
-### <img src="https://media3.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif?cid=ecf05e47rq2xrsqrl9xzn0k9ddthmj90lkic8xzujbmf7ztn&rid=giphy.gif&ct=s" width="50">A Little About Me:
+<a href="https://www.instagram.com/gyujin_lee.java/"><img src="https://img.shields.io/badge/-gyujin_lee.java-red?logo=instagram&logoColor=white">
+<a herf="gjlee99211@gmail.com"><img src="https://img.shields.io/badge/Gmail-GyuJinLee-red?logo=gmail&logoColor=white">
+<a herf="https://www.facebook.com/profile.php?id=100015853840100"><img src="https://img.shields.io/badge/-Lee GyuJin-blue?logo=facebook&logoColor=white">
+<a herf="https://www.linkedin.com/in/gyujin-lee-9aa707241/"><img src="https://img.shields.io/badge/-GyuJinLee-blue?logo=linkedin&logoColor=white">
+<a herf="https://discord.gg/YWRzarbys4"><img src="https://img.shields.io/badge/-CodeLab-purple?logo=discord&logoColor=white">
+[![GitHub: JinLeeGG](https://img.shields.io/github/followers/JinLeeGG?style=social)](https://github.com/JinLeeGG)
+
+
+<img src="https://media0.giphy.com/media/7DILedCoTwhFQY6ed6/giphy.gif?cid=ecf05e479sqeiyce6r6irzo0l1w40k15i7twj79smi30oovp&rid=giphy.gif&ct=s" width="60"> <em><b>I love coding with other people and share information!</b> if you want to talk to <b>me more, I'll be happy to chat with you!</b> </em>
+
+<br>
+
+<h1 align="left"><img src="https://media1.giphy.com/media/12PXNbcHW8C9Bm/giphy.gif?cid=ecf05e47jyrow51s08g420bjj6yq4skc3b0tjgzihd4pgse6&rid=giphy.gif&ct=s" width="50"> A little more about me...</h1>  
 
 <details>
-  <summary>Who are you? <img src="https://media1.giphy.com/media/x49DCuOOBiurrmlEov/giphy_s.gif?cid=ecf05e47jyrow51s08g420bjj6yq4skc3b0tjgzihd4pgse6&rid=giphy_s.gif&ct=s" > </summary>
+  <summary>Who am I? 😉 </summary>
   <pre>
-   I am a programmer who loves to make software and games and also playing with it 😁 
+  I am a programmer who loves to make software and games and also playing with it 😁 
+  Currently going to Dickinson College and majoring Computer Science and Math.
+  I hope to make Virtual Reality software or games in the future!
   </pre>
 </details>
 
@@ -28,12 +42,7 @@ const GyuJin = {
   askMe: "Computer and any tech related questions",
 }
 ```
-<iframe src="https://giphy.com/embed/5eLDrEaRGHegx2FeF2" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/transparent-5eLDrEaRGHegx2FeF2">via GIPHY</a></p>
 
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/5eLDrEaRGHegx2FeF2" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/transparent-5eLDrEaRGHegx2FeF2">via GIPHY</a></p>
-
-<iframe src="https://giphy.com/embed/5eLDrEaRGHegx2FeF2" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/transparent-5eLDrEaRGHegx2FeF2">via GIPHY</a></p>
-https://media3.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif?cid=ecf05e47rq2xrsqrl9xzn0k9ddthmj90lkic8xzujbmf7ztn&rid=giphy.gif&ct=s
 <br>
 <br>
 
@@ -69,7 +78,9 @@ https://media3.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif?cid=ecf05e47rq2xrsqr
 <br>
 <br>
 
-<h1 align="center">🐱‍💻 My current Work 🐱‍💻</h1>  
+
+
+<h1 align="center"><img src="https://media2.giphy.com/media/ryRe2vuYIQ3RQ5eMtY/giphy.gif?cid=ecf05e47xj5cxvke22ww6k0o425tawddvcjgqutxu1hrfzh3&rid=giphy.gif&ct=s" width="100">🐱‍💻 My current Work 🐱‍💻</h1>  
 <h3>What I do? 💻</h3>
 <details>
 <summary>VR Software/Games 👓 </summary>
