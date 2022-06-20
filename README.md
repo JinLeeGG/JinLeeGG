@@ -3,11 +3,11 @@
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=jinleegg&label=Profile%20views&color=0e75b6&style=flat" alt="jinleegg" /> </p>   
 
-<a href="https://www.instagram.com/gyujin_lee.java/"><img src="https://img.shields.io/badge/-gyujin_lee.java-red?logo=instagram&logoColor=white&link=https://www.instagram.com/gyujin_lee.java/"></a>
-<a herf="gjlee99211@gmail.com"><img src="https://img.shields.io/badge/Gmail-GyuJinLee-red?logo=gmail&logoColor=white&link=gjlee99211@gmail.com"></a>
-<a herf="https://www.facebook.com/profile.php?id=100015853840100"><img src="https://img.shields.io/badge/-Lee GyuJin-blue?logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100015853840100"></a>
-<a herf="https://www.linkedin.com/in/gyujin-lee-9aa707241/"><img src="https://img.shields.io/badge/-GyuJinLee-blue?logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/gyujin-lee-9aa707241/"></a>
-<a herf="https://discord.gg/YWRzarbys4"><img src="https://img.shields.io/badge/-CodeLab-purple?logo=discord&logoColor=white&link=https://discord.gg/YWRzarbys4"></a>
+<a href="https://www.instagram.com/gyujin_lee.java/"><img src="https://img.shields.io/badge/-gyujin_lee.java-red?logo=instagram&logoColor=white&link=https://www.instagram.com/gyujin_lee.java/"/></a>
+<a herf="mailto:gjlee99211@gmail.com"><img src="https://img.shields.io/badge/Gmail-GyuJinLee-red?logo=gmail&logoColor=white&link=mailto:gjlee99211@gmail.com"/></a>
+<a herf="https://www.facebook.com/profile.php?id=100015853840100"><img src="https://img.shields.io/badge/-Lee GyuJin-blue?logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100015853840100"/></a>
+<a herf="https://www.linkedin.com/in/gyujin-lee-9aa707241/"><img src="https://img.shields.io/badge/-GyuJinLee-blue?logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/gyujin-lee-9aa707241/"/></a>
+<a herf="https://discord.gg/YWRzarbys4"><img src="https://img.shields.io/badge/-CodeLab-purple?logo=discord&logoColor=white&link=https://discord.gg/YWRzarbys4"/></a>
 [![GitHub: JinLeeGG](https://img.shields.io/github/followers/JinLeeGG?style=social)](https://github.com/JinLeeGG)
   
   
