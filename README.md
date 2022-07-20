@@ -94,7 +94,7 @@ const GyuJin = {
 <summary>Discord Bot Development 📡 </summary>
   <ul>
     <li><a href="https://github.com/JinLeeGG/MadCodersDiscordBot">MadCodersDiscordBot</a></li>
-    <li><a href="https://github.com">YuikaBot</a></li>
+    <li><a href="https://github.com/JinLeeGG/DiscordBotYuiKa">YuikaBot</a></li>
   </ul>
 </details>
 
