@@ -86,8 +86,8 @@ const GyuJin = {
 <details>
 <summary>VR Software/Games 👓 </summary>
 <ul>
-  <li><a href="https://github.com">Vr-ShootingGame</a></li>
-  <li><a href="https://github.com">Vr-interface</a></li>
+  <li><a href="https://github.com">N/A</a></li>
+  <li><a href="https://github.com">N/A/a></li>
 </ul>
 </details>
 <details>
