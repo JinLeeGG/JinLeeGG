@@ -30,7 +30,7 @@
 ```javascript
 const GyuJin = {
   pronouns: "Him" | "He" | "His",
-  code: [Javascript, Java, Python, HTML, CSS, C++],
+  code: [Javascript, Java, Python, HTML, CSS, C++, Docker, Git, GitHub],
   tools: [Photoshop, Unity, Blender, UnrealEngine],
   reachMe: {
                   Gmail: "gjlee99211@gmail.com",
