@@ -97,6 +97,12 @@ const GyuJin = {
     <li><a href="https://github.com/JinLeeGG/DiscordBotYuiKa">YuikaBot</a></li>
   </ul>
 </details>
+<details>
+<summary>HTML & CSS Projects 🕸️ </summary>
+  <ul>
+    <li><a href="https://github.com/JinLeeGG/Personal_Portfolio-v1">GyuJin Lee's Portfolio</a></li>
+  </ul>
+</details>
 
 <br>
 <br>
