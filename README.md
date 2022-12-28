@@ -13,6 +13,8 @@
   
 <img src="https://media0.giphy.com/media/7DILedCoTwhFQY6ed6/giphy.gif?cid=ecf05e479sqeiyce6r6irzo0l1w40k15i7twj79smi30oovp&rid=giphy.gif&ct=s" width="60"> <em><b>I love coding with other people and share information!</b> if you want to talk to <b>me more, I'll be happy to chat with you!</b> </em>
 
+Visit My Portfolio Website! : https://gyujinlee.netlify.app/
+
 <br>
 
 <h1 align="left"><img src="https://media1.giphy.com/media/12PXNbcHW8C9Bm/giphy.gif?cid=ecf05e47jyrow51s08g420bjj6yq4skc3b0tjgzihd4pgse6&rid=giphy.gif&ct=s" width="50"> A little more about me...</h1>
