@@ -102,7 +102,10 @@ const GyuJin = {
 <details>
 <summary>HTML & CSS Projects 🕸️ </summary>
   <ul>
-    <li><a href="https://github.com/JinLeeGG/Personal_Portfolio-v1">GyuJin Lee's Portfolio</a></li>
+    <li><a href="https://github.com/JinLeeGG/Personal_Portfolio-v1">GyuJin Lee's Portfolio-v1</a></li>
+  </ul>
+    <ul>
+    <li><a href="https://github.com/JinLeeGG/Personal_Portfolio_v2">GyuJin Lee's Portfolio-v2</a></li>
   </ul>
 </details>
 
