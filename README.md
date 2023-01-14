@@ -108,6 +108,8 @@ const GyuJin = {
     <li><a href="https://github.com/JinLeeGG/Personal_Portfolio_v2">GyuJin Lee's Portfolio-v2</a></li>
   </ul>
 </details>
+<summary>C/C++ Projects 💿 </summary>
+
 
 <br>
 <br>
