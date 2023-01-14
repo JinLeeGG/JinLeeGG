@@ -32,7 +32,7 @@ Visit My Portfolio Website! : https://gyujinlee.netlify.app/
 ```javascript
 const GyuJin = {
   pronouns: "Him" | "He" | "His",
-  code: [Javascript, Java, Python, HTML, CSS, C++, Docker, Git, GitHub],
+  code: [Javascript, Java, Python, HTML, CSS, C, C++, Docker, Git, GitHub, REACT JS, BootStrap],
   tools: [Photoshop, Unity, Blender, UnrealEngine],
   reachMe: {
                   Gmail: "gjlee99211@gmail.com",
