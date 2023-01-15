@@ -100,7 +100,7 @@ const GyuJin = {
   </ul>
 </details>
 <details>
-<summary>HTML & CSS Projects 🕸️ </summary>
+<summary>Web Development Projects 🕸️ </summary>
   <ul>
     <li><a href="https://github.com/JinLeeGG/Personal_Portfolio-v1">GyuJin Lee's Portfolio-v1</a></li>
     <li><a href="https://github.com/JinLeeGG/Personal_Portfolio_v2">GyuJin Lee's Portfolio-v2</a></li>
