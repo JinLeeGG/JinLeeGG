@@ -103,13 +103,16 @@ const GyuJin = {
 <summary>HTML & CSS Projects 🕸️ </summary>
   <ul>
     <li><a href="https://github.com/JinLeeGG/Personal_Portfolio-v1">GyuJin Lee's Portfolio-v1</a></li>
-  </ul>
-    <ul>
     <li><a href="https://github.com/JinLeeGG/Personal_Portfolio_v2">GyuJin Lee's Portfolio-v2</a></li>
   </ul>
 </details>
-<summary>C/C++ Projects 💿 </summary>
-
+<details>
+  <summary>C/C++ Projects 💿 </summary>
+  <ul>
+    <li><a href="https://github.com/JinLeeGG/Personal_Portfolio-v1">Simple Poker Game</a></li>
+    <li><a href="https://github.com/JinLeeGG/Personal_Portfolio_v2">Bank system</a></li>
+  </ul>
+</details>
 
 <br>
 <br>
