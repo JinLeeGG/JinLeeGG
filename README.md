@@ -107,7 +107,7 @@ const GyuJin = {
   </ul>
 </details>
 <details>
-  <summary>C/C++ Projects 💿 </summary>
+  <summary>C/C++ Projects ✅ </summary>
   <ul>
     <li><a href="https://github.com/JinLeeGG/Personal_Portfolio-v1">Simple Poker Game</a></li>
     <li><a href="https://github.com/JinLeeGG/Personal_Portfolio_v2">Bank system</a></li>
