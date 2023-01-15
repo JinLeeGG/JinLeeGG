@@ -111,6 +111,7 @@ const GyuJin = {
   <ul>
     <li><a href="https://github.com/JinLeeGG/Personal_Portfolio-v1">Simple Poker Game</a></li>
     <li><a href="https://github.com/JinLeeGG/Personal_Portfolio_v2">Bank system</a></li>
+   <li><a href="https://github.com/JinLeeGG/TicTacToe_C_miniProject">Tic-Tac-Toe Game</a></li>
   </ul>
 </details>
 
