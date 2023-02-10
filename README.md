@@ -21,7 +21,7 @@ Visit My personal Website : https://gyujinlee1.netlify.app/
   
 
 <details>
-  <summary>Who am I? 😉 </summary>
+  <summary> Who am I? 😉 </summary>
   <pre>
    I am a programmer who loves to make software and games and also playing with it 😁 
    Currently going to Dickinson College and majoring Computer Science and Math.
