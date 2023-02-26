@@ -13,7 +13,7 @@
   
 <img src="https://media0.giphy.com/media/7DILedCoTwhFQY6ed6/giphy.gif?cid=ecf05e479sqeiyce6r6irzo0l1w40k15i7twj79smi30oovp&rid=giphy.gif&ct=s" width="60"> <em><b>I love coding with other people and share information!</b> if you want to talk to <b>me more, I'll be happy to chat with you!</b> </em>
 
-Visit My personal Website : https://gyujinlee1.netlify.app/
+Visit My personal Website!!: https://gyujinlee1.netlify.app/
 
 <br>
 
