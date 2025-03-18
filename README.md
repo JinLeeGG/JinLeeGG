@@ -83,7 +83,7 @@ const GyuJin = {
 
 
 
-<h1 align="center">🐱‍💻 My current Work 🐱‍💻</h1>  
+<h1 align="center">🐱‍💻 My current Project 🐱‍💻</h1>  
 <h3>What I do? 💻</h3>
 <details>
 <summary>VR Software/Games 👓 </summary>
@@ -113,6 +113,20 @@ const GyuJin = {
    <li><a href="https://github.com/JinLeeGG/TicTacToe_C_miniProject">Tic-Tac-Toe Game</a></li>
   </ul>
 </details>
+
+<br>
+<br>
+
+<h1 align="center">📖 My current learning 📖</h1>  
+<h3>My learning process..</h3>
+<details>
+<summary>Python Data Structure & Algorithms</summary>
+<ul>
+  <li><a href="https://github.com">Day1 - File Input/Output, Encoding, Absolute Path, Relative Path</a></li>
+  <li><a href="https://github.com">Day2 - Web Crawling/Scraping</a></li>
+</ul>
+</details>
+
 
 <br>
 <br>
