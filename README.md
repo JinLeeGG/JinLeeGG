@@ -23,9 +23,8 @@ Visit My personal Website!!: https://gyujinlee1.netlify.app/
 <details>
   <summary> Who am I? 😉 </summary>
   <pre>
-   I am a programmer who loves to make software and games and also playing with it 😁 
-   Currently going to Dickinson College and majoring Computer Science and Math.
-   I hope to make Virtual Reality software or games in the future!
+   I am a passionate programmer who loves to make software and games and also playing with it 😁 
+   I am currently going to Dickinson College and majoring in Computer Science and Math.
   </pre>
 </details>
 
@@ -86,13 +85,6 @@ const GyuJin = {
 <h1 align="center">🐱‍💻 My current Project 🐱‍💻</h1>  
 <h3>What I do? 💻</h3>
 <details>
-<summary>VR Software/Games 👓 </summary>
-<ul>
-  <li><a href="https://github.com">N/A</a></li>
-  <li><a href="https://github.com">N/A</a></li>
-</ul>
-</details>
-<details>
 <summary>Discord Bot Development 📡 </summary>
   <ul>
     <li><a href="https://github.com/JinLeeGG/MadCodersDiscordBot">MadCodersDiscordBot</a></li>
@@ -122,7 +114,7 @@ const GyuJin = {
 <details>
 <summary>Python Data Structure & Algorithms</summary>
 <ul>
-  <li><a href="https://github.com">Day1 - File Input/Output, Encoding, Absolute Path, Relative Path</a></li>
+  <li><a href="https://github.com/Python_DataStructue-Algoritms">Day1 - File Input/Output, Encoding, Absolute Path, Relative Path</a></li>
   <li><a href="https://github.com">Day2 - Web Crawling/Scraping</a></li>
 </ul>
 </details>
