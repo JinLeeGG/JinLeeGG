@@ -114,7 +114,7 @@ const GyuJin = {
 <details>
 <summary>Python Data Structure & Algorithms</summary>
 <ul>
-  <li><a href="https://github.com/Python_DataStructue-Algoritms">Day1 - File Input/Output, Encoding, Absolute Path, Relative Path</a></li>
+  <li><a href="https://github.com/Python_DataStructue-Algoritms/tree/5cfce7dda94256a0f709c6cb0bc819d19914b258/(Day1)%20File%20Input%2C%20Output">Day1 - File Input/Output, Encoding, Absolute Path, Relative Path</a></li>
   <li><a href="https://github.com">Day2 - Web Crawling/Scraping</a></li>
 </ul>
 </details>
