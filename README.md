@@ -13,7 +13,7 @@
   
 <img src="https://media0.giphy.com/media/7DILedCoTwhFQY6ed6/giphy.gif?cid=ecf05e479sqeiyce6r6irzo0l1w40k15i7twj79smi30oovp&rid=giphy.gif&ct=s" width="60"> <em><b>I love coding with other people and share information!</b> if you want to talk to <b>me more, I'll be happy to chat with you!</b> </em>
 
-Visit My personal Website!!: https://gyujinlee1.netlify.app/
+Visit My Personal Website!!: https://gyujinlee1.netlify.app/
 
 <br>
 
@@ -115,7 +115,7 @@ const GyuJin = {
 <summary>Python Data Structure & Algorithms</summary>
 <ul>
   <li><a href="https://github.com/JinLeeGG/Python_DataStructue-Algoritms/tree/5cfce7dda94256a0f709c6cb0bc819d19914b258/(Day1)%20File%20Input%2C%20Output">Day1 - File Input/Output, Encoding, Absolute Path, Relative Path</a></li>
-  <li><a href="https://github.com">Day2 - Web Crawling/Scraping</a></li>
+  <li><a href="https://github.com/JinLeeGG/Python_DataStructue-Algoritms/tree/main/(Day2)%20Web%20Crawling%2C%20Scraping">Day2 - Web Crawling/Scraping</a></li>
 </ul>
 </details>
 
