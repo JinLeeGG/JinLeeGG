@@ -109,16 +109,6 @@ const GyuJin = {
 <br>
 <br>
 
-<h1 align="center">📖 My current learning 📖</h1>  
-<h3>My learning process..</h3>
-<details>
-<summary>Python Data Structure & Algorithms</summary>
-<ul>
-  <li><a href="https://github.com/JinLeeGG/Python_DataStructue-Algoritms/tree/5cfce7dda94256a0f709c6cb0bc819d19914b258/(Day1)%20File%20Input%2C%20Output">Day1 - File Input/Output, Encoding, Absolute Path, Relative Path</a></li>
-  <li><a href="https://github.com/JinLeeGG/Python_DataStructue-Algoritms/tree/main/(Day2)%20Web%20Crawling%2C%20Scraping">Day2 - Web Crawling/Scraping</a></li>
-</ul>
-</details>
-
 
 <br>
 <br>
