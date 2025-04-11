@@ -106,6 +106,12 @@ const GyuJin = {
   </ul>
 </details>
 
+<summary>AI Projects </summary>
+  <ul>
+  </ul>
+</details>
+
+
 <br>
 <br>
 
