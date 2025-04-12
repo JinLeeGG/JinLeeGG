@@ -107,9 +107,9 @@ const GyuJin = {
 </details>
 
 <details>
-<summary>AI Projects </summary>
+<summary>AI Projects</summary>
   <ul>
-   <li><a href="https://github.com/JinLeeGG/AI_Project_with_OpenCV">Tic-Tac-Toe Game</a></li>
+   <li><a href="https://github.com/JinLeeGG/AI_Project_with_OpenCV">Computer Vision Project with AI</a></li>
   </ul>
 </details>
 
