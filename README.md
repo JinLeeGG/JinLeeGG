@@ -35,13 +35,11 @@ const GyuJin = {
   tools: [Photoshop, Unity, Blender, UnrealEngine],
   reachMe: {
                   Gmail: "gjlee99211@gmail.com",
-                  Instagram: "gyujin_lee.java",
+                  Instagram: "gyujin_lee.js",
                   discord: "JinLee#8737",
               },
   CurrentChallenge: "Learning Data Structure and Algorithms",
-  CurrentLearning: "C++ and Unreal engine",
-  funFact: "I love to play FPS games and watch anime",
-  askMe: "Computer and any tech related questions",
+  CurrentLearning: "AI, ML, DSA",
 }
 ```
 
@@ -111,7 +109,6 @@ const GyuJin = {
   <ul>
     <li><a href="https://github.com/JinLeeGG/Chat-with-Multiple-PDFs">Multiple PDF file AI agent</a></li>
     <li><a href="https://github.com/JinLeeGG/Ollama-demo">Ollama Demo</a></li>
-    <li><a href="https://github.com/JinLeeGG/Local-AI-agent-with-Python">Local AI agent with Ollama</a></li>
   </ul>
 </details>
 
