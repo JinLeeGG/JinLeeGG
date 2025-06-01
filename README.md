@@ -109,6 +109,7 @@ const GyuJin = {
   <ul>
     <li><a href="https://github.com/JinLeeGG/Chat-with-Multiple-PDFs">Multiple PDF file AI agent</a></li>
     <li><a href="https://github.com/JinLeeGG/Ollama-demo">Ollama Demo</a></li>
+    <li><a href="https://github.com/JinLeeGG/AI_Website_Analyzer">AI Website Analyzer</a></li>
   </ul>
 </details>
 
