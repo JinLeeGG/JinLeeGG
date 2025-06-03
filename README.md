@@ -13,19 +13,44 @@
 
 <br>
 
-# <img src="https://media1.giphy.com/media/12PXNbcHW8C9Bm/giphy.gif?cid=ecf05e47jyrow51s08g420bjj6yq4skc3b0tjgzihd4pgse6&rid=giphy.gif&ct=s" width="40" > Hi I'm Gyujin Lee
+# <img src="https://media1.giphy.com/media/12PXNbcHW8C9Bm/giphy.gif?cid=ecf05e47jyrow51s08g420bjj6yq4skc3b0tjgzihd4pgse6&rid=giphy.gif&ct=s" width="40" > About Me
 
-🎓 **Computer Science & Mathematics** double major at Dickinson College
+### 🎓 *Computer Science & Mathematics Major* 
+* Rising Junior at Dickinson College
 
-🤖 **AI Enthusiast** passionate about large language models and intelligent software development
+### 🤖 *AI Enthusiast* 
+* Passionate about large language models and intelligent software development
 
-💻 **Full-Stack Developer** with expertise in modern web technologies and system architecture
+### 💻 *Full-Stack Developer* 
+* With expertise in modern web technologies and system architecture
 
-📊 **Problem Solver** combining mathematical rigor with creative programming solutions
+### 📊 *Problem Solver* 
+* Combining mathematical rigor with creative programming solutions
 
-🚀 **Current Focus**: Mastering data structures, algorithms, and AI/ML frameworks to build impactful software for the world
+### 🚀 *Current Focus*: 
+* Mastering data structures, algorithms, and AI/ML frameworks to build impactful software for the world
+
+<br>
+<br>
 
 
+<h1 align="center">📖 Learning Process Archive 📖</h1>  
+
+### Data Structures & Algorithms
+* <a href="https://github.com/JinLeeGG/Chat-with-Multiple-PDFs">Grokking the Coding Interview: Patterns for Coding Questions(Design Gurus)</a>
+* <a href="https://github.com/JinLeeGG/Chat-with-Multiple-PDFs">Coding Interview Prep (Korea IT Academy)</a>
+* <a href="https://github.com/JinLeeGG/Chat-with-Multiple-PDFs">Techinical Interview Prep 101(CodePath)</a>
+* <a href="https://github.com/JinLeeGG/Chat-with-Multiple-PDFs">Data Structure & Algorithm (Korea IT Academy)</a>
+### Network
+* <a href="https://github.com/JinLeeGG/Chat-with-Multiple-PDFs">CCNA/Network Fundamentals </a>
+### AI/ML
+* <a href="https://github.com/JinLeeGG/Chat-with-Multiple-PDFs">AI & Computer Vision Project (Korea IT Academy) </a>
+### Large Language Models 
+* <a href="https://github.com/JinLeeGG/Chat-with-Multiple-PDFs">Mastering Generative AI and LLMs: An 8-Week Hands-On Journey (Udemy) </a>
+### Web Development
+* <a href="https://github.com/JinLeeGG/Chat-with-Multiple-PDFs">Web Developement 101 (CodePath) </a>
+### Android App Development
+* <a href="https://github.com/JinLeeGG/Chat-with-Multiple-PDFs">Android APP Development 101 (CodePath) </a>
 
 <br>
 <br>
