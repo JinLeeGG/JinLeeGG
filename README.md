@@ -46,8 +46,7 @@ const GyuJin = {
 <br>
 <br>
 
-<h1 align="center">🛠️ My programming Languages and Tools 🛠️</h1>  
-# 💻 Tech Stack
+<h1 align="center">🛠️ Tech Stack 🛠️</h1>  
 
 ### 🖥️ Programming Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
