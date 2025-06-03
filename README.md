@@ -16,7 +16,7 @@
 # <img src="https://media1.giphy.com/media/12PXNbcHW8C9Bm/giphy.gif?cid=ecf05e47jyrow51s08g420bjj6yq4skc3b0tjgzihd4pgse6&rid=giphy.gif&ct=s" width="40" > About Me
 
 ### 🎓 *Computer Science & Mathematics Major* 
-* Rising Junior at Dickinson College
+* Rising Junior at Dickinson College (Class of 2027)
 
 ### 🤖 *AI Enthusiast* 
 * Passionate about large language models and intelligent software development
