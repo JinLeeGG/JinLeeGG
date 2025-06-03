@@ -32,7 +32,7 @@
 
 
 
-<h1 align="center" style="font-size: 2em;">🧑🏻‍💻 Toy Projects 🧑🏻‍💻</h1>
+<h1 align="center" style="font-size: 2em;">👾 Toy Projects 👾</h1>
 
 <details>
   <summary style="font-size: 1.2em;"><strong>🤖 AI Projects</strong></summary>
