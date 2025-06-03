@@ -9,44 +9,30 @@
 <a href="https://www.linkedin.com/in/gyujin-lee-9aa707241/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/gyujin-lee-9aa707241/"/></a> 
 <a href="https://discord.gg/YWRzarbys4" target="_blank"><img src="https://img.shields.io/badge/Discord:CodeLab-purple?style=flat-square&logo=discord&logoColor=white&link=https://discord.gg/YWRzarbys4"/></a> 
 [![GitHub: JinLeeGG](https://img.shields.io/github/followers/JinLeeGG?style=social)](https://github.com/JinLeeGG)
-  
-  
-<img src="https://media0.giphy.com/media/7DILedCoTwhFQY6ed6/giphy.gif?cid=ecf05e479sqeiyce6r6irzo0l1w40k15i7twj79smi30oovp&rid=giphy.gif&ct=s" width="60"> <em><b>I love coding with other people and share information!</b> if you want to talk to <b>me more, I'll be happy to chat with you!</b> </em>
 
-Visit My Personal Website!!: https://gyujinlee1.netlify.app/
 
 <br>
 
-<h1 align="left"><img src="https://media1.giphy.com/media/12PXNbcHW8C9Bm/giphy.gif?cid=ecf05e47jyrow51s08g420bjj6yq4skc3b0tjgzihd4pgse6&rid=giphy.gif&ct=s" width="50"> A little more about me...</h1>
-  
+# <img src="https://media1.giphy.com/media/12PXNbcHW8C9Bm/giphy.gif?cid=ecf05e47jyrow51s08g420bjj6yq4skc3b0tjgzihd4pgse6&rid=giphy.gif&ct=s" width="40" > Hi I'm Gyujin Lee
 
-<details>
-  <summary> Who am I? 😉 </summary>
-  <pre>
-   I am a passionate programmer who loves to make software and games and also playing with it 😁 
-   I am currently going to Dickinson College and majoring in Computer Science and Math.
-  </pre>
-</details>
+🎓 **Computer Science & Mathematics** double major at Dickinson College
 
-```javascript
-const GyuJin = {
-  pronouns: "Him" | "He" | "His",
-  code: [Javascript, Java, Python, HTML, CSS, C, C++, Docker, Git, GitHub, REACT JS, BootStrap],
-  tools: [Photoshop, Unity, Blender, UnrealEngine],
-  reachMe: {
-                  Gmail: "gjlee99211@gmail.com",
-                  Instagram: "gyujin_lee.js",
-                  discord: "JinLee#8737",
-              },
-  CurrentChallenge: "Learning Data Structure and Algorithms",
-  CurrentLearning: "AI, ML, DSA",
-}
-```
+🤖 **AI Enthusiast** passionate about large language models and intelligent software development
+
+💻 **Full-Stack Developer** with expertise in modern web technologies and system architecture
+
+📊 **Problem Solver** combining mathematical rigor with creative programming solutions
+
+🚀 **Current Focus**: Mastering data structures, algorithms, and AI/ML frameworks to build impactful software for the world
+
+
 
 <br>
 <br>
 
-<h1 align="center">🛠️ Tech Stack 🛠️</h1>  
+<h1 align="center">🛠️ My Tech Stack 🛠️</h1>  
+
+<div align="center">
 
 ### 🖥️ Programming Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -99,7 +85,9 @@ const GyuJin = {
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
- 
+
+</div>
+
 <br>
 <br>
 
