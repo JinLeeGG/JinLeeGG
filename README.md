@@ -30,7 +30,7 @@ const GyuJin = {
     },
     {
       title: "Full-Stack Developer",
-      description: "With expertise in modern web technologies and system architecture."
+      description: "Expertise in modern web technologies and system architecture."
     }
   ],
 
