@@ -16,31 +16,33 @@
 # <img src="https://media1.giphy.com/media/12PXNbcHW8C9Bm/giphy.gif?cid=ecf05e47jyrow51s08g420bjj6yq4skc3b0tjgzihd4pgse6&rid=giphy.gif&ct=s" width="40" > About Me
 
 ```javascript
-const GyuJin = {
-  pronouns: "He/Him",
-
+const GyuJinLee = {
   education: {
     institution: "Dickinson College",
+    degree: "Bachelor of Science",
     major: "Computer Science & Mathematics",
-
-  rolesAndInterests: [
+    graduationYear: "2027" 
+  },
+  rolesAndInterests: 
     {
       title: "AI Enthusiast",
-      description: "Passionate about large language models and AI software development."
+      description: "Passionate about large language models and AI software development.",
     },
     {
       title: "Full-Stack Developer",
-      description: "Expertise in modern web technologies and system architecture."
+      description: "Expertise in modern web technologies and system architecture.",
     }
-  ],
-
-  contact: { 
-    gmail: "gjlee99211@gmail.com",
-    instagram: "gyujin_lee.js",
-    linkedIn: "https://www.linkedin.com/in/gyujin-lee-dev/"
   },
-
-  currentLearning: "Mastering data structures, algorithms, and AI/ML frameworks to build impactful software for the world."
+  contact: {
+    email: "gjlee99211@gmail.com",
+    instagram: "gyujin_lee.js",
+    linkedin: "https://www.linkedin.com/in/gyujin-lee-dev/",
+  },
+  currentLearning: [
+    "Mastering advanced data structures and algorithms",
+    "Deepening understanding of AI/ML frameworks",
+    "Building impactful software solutions"
+  ]
 };
 ```
 
