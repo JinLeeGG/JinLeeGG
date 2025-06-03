@@ -98,7 +98,7 @@
 <details>
 <summary><strong>🧠 Large Language Models</strong></summary>
   <ul>
-    <li><a href="github.com">Mastering Generative AI and LLMs: An 8-Week Hands-On Journey (Udemy)</a></li>
+    <li><a href="https://github.com/JinLeeGG/Mastering-Generative-AI-and-LLMs-8-Week-Learning-Journey">Mastering Generative AI and LLMs: An 8-Week Hands-On Journey (Udemy)</a></li>
   </ul>
 </details>
 <details>
