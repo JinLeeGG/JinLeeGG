@@ -15,17 +15,35 @@
 
 # <img src="https://media1.giphy.com/media/12PXNbcHW8C9Bm/giphy.gif?cid=ecf05e47jyrow51s08g420bjj6yq4skc3b0tjgzihd4pgse6&rid=giphy.gif&ct=s" width="40" > About Me
 
-### 🎓 *Computer Science & Mathematics Major* 
-* Rising Junior at Dickinson College (Class of 2027)
+```javascript
+const GyuJin = {
+  pronouns: "He/Him",
 
-### 🤖 *AI Enthusiast* 
-* Passionate about large language models and intelligent software development
+  education: {
+    institution: "Dickinson College",
+    major: "Computer Science & Mathematics",
 
-### 💻 *Full-Stack Developer* 
-* With expertise in modern web technologies and system architecture
+  rolesAndInterests: [
+    {
+      title: "AI Enthusiast",
+      description: "Passionate about large language models and AI software development."
+    },
+    {
+      title: "Full-Stack Developer",
+      description: "With expertise in modern web technologies and system architecture."
+    }
+  ],
 
-### 🚀 *Current Focus*: 
-* Mastering data structures, algorithms, and AI/ML frameworks to build impactful software for the world
+  contact: { 
+    gmail: "gjlee99211@gmail.com",
+    instagram: "gyujin_lee.js",
+    linkedIn: "https://www.linkedin.com/in/gyujin-lee-dev/"
+  },
+
+  currentLearning: "Mastering data structures, algorithms, and AI/ML frameworks to build impactful software for the world."
+};
+```
+
 
 <br>
 <be>
