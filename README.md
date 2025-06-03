@@ -72,7 +72,7 @@
 <br>
 
 
-<h1 align="center">📖 Learning Process Archive 📖</h1>  
+<h1 align="center">📖 Learning Journey 📖</h1>  
 
 <details>
 <summary><strong>📊 Data Structures & Algorithms</strong></summary>
