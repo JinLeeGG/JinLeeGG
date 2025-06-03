@@ -24,11 +24,46 @@
 ### 💻 *Full-Stack Developer* 
 * With expertise in modern web technologies and system architecture
 
-### 📊 *Problem Solver* 
-* Combining mathematical rigor with creative programming solutions
-
 ### 🚀 *Current Focus*: 
 * Mastering data structures, algorithms, and AI/ML frameworks to build impactful software for the world
+
+<br>
+<be>
+
+
+
+<h1 align="center">🧑🏻‍💻 My current Project 🧑🏻‍💻</h1>  
+<details>
+<summary>AI Projects</summary>
+  <ul>
+    <li><a href="https://github.com/JinLeeGG/Chat-with-Multiple-PDFs">Multiple PDF file AI agent</a></li>
+    <li><a href="https://github.com/JinLeeGG/Ollama-demo">Ollama Demo</a></li>
+    <li><a href="https://github.com/JinLeeGG/AI_Website_Analyzer">AI Website Analyzer</a></li>
+    <li><a href="https://github.com/JinLeeGG/GptAPI">ChatGPT API Use</a></li>
+  </ul>
+</details>
+<details>
+<summary>Discord Bot Development 📡 </summary>
+  <ul>
+    <li><a href="https://github.com/JinLeeGG/MadCodersDiscordBot">MadCodersDiscordBot</a></li>
+    <li><a href="https://github.com/JinLeeGG/DiscordBotYuiKa">YuikaBot</a></li>
+  </ul>
+</details>
+<details>
+<summary>Web Development Projects 🕸️ </summary>
+  <ul>
+    <li><a href="https://github.com/JinLeeGG/Personal_Portfolio-v1">GyuJin Lee's Portfolio-v1</a></li>
+    <li><a href="https://github.com/JinLeeGG/Personal_Portfolio_v2">GyuJin Lee's Portfolio-v2</a></li>
+  </ul>
+</details>
+
+<details>
+  <summary>C/C++ Projects ✅ </summary>
+  <ul>
+   <li><a href="https://github.com/JinLeeGG/TicTacToe_C_miniProject">Tic-Tac-Toe Game</a></li>
+  </ul>
+</details>
+
 
 <br>
 <br>
@@ -36,21 +71,45 @@
 
 <h1 align="center">📖 Learning Process Archive 📖</h1>  
 
-### Data Structures & Algorithms
-* <a href="https://github.com/JinLeeGG/Chat-with-Multiple-PDFs">Grokking the Coding Interview: Patterns for Coding Questions(Design Gurus)</a>
-* <a href="https://github.com/JinLeeGG/Chat-with-Multiple-PDFs">Coding Interview Prep (Korea IT Academy)</a>
-* <a href="https://github.com/JinLeeGG/Chat-with-Multiple-PDFs">Techinical Interview Prep 101(CodePath)</a>
-* <a href="https://github.com/JinLeeGG/Chat-with-Multiple-PDFs">Data Structure & Algorithm (Korea IT Academy)</a>
-### Network
-* <a href="https://github.com/JinLeeGG/Chat-with-Multiple-PDFs">CCNA/Network Fundamentals </a>
-### AI/ML
-* <a href="https://github.com/JinLeeGG/Chat-with-Multiple-PDFs">AI & Computer Vision Project (Korea IT Academy) </a>
-### Large Language Models 
-* <a href="https://github.com/JinLeeGG/Chat-with-Multiple-PDFs">Mastering Generative AI and LLMs: An 8-Week Hands-On Journey (Udemy) </a>
-### Web Development
-* <a href="https://github.com/JinLeeGG/Chat-with-Multiple-PDFs">Web Developement 101 (CodePath) </a>
-### Android App Development
-* <a href="https://github.com/JinLeeGG/Chat-with-Multiple-PDFs">Android APP Development 101 (CodePath) </a>
+<details>
+<summary><strong>📊 Data Structures & Algorithms</strong></summary>
+  <ul>
+    <li><a href="https://github.com/JinLeeGG/Chat-with-Multiple-PDFs">Grokking the Coding Interview: Patterns for Coding Questions (Design Gurus)</a></li>
+    <li><a href="https://github.com/JinLeeGG/Chat-with-Multiple-PDFs">Coding Interview Prep (Korea IT Academy)</a></li>
+    <li><a href="https://github.com/JinLeeGG/Chat-with-Multiple-PDFs">Technical Interview Prep 101 (CodePath)</a></li>
+    <li><a href="https://github.com/JinLeeGG/Chat-with-Multiple-PDFs">Data Structure & Algorithm (Korea IT Academy)</a></li>
+  </ul>
+</details>
+<details>
+<summary><strong>🌐 Network</strong></summary>
+  <ul>
+    <li><a href="https://github.com/JinLeeGG/Chat-with-Multiple-PDFs">CCNA/Network Fundamentals</a></li>
+  </ul>
+</details>
+<details>
+<summary><strong>🤖 AI/ML</strong></summary>
+  <ul>
+    <li><a href="https://github.com/JinLeeGG/Chat-with-Multiple-PDFs">AI & Computer Vision Project (Korea IT Academy)</a></li>
+  </ul>
+</details>
+<details>
+<summary><strong>🧠 Large Language Models</strong></summary>
+  <ul>
+    <li><a href="https://github.com/JinLeeGG/Chat-with-Multiple-PDFs">Mastering Generative AI and LLMs: An 8-Week Hands-On Journey (Udemy)</a></li>
+  </ul>
+</details>
+<details>
+<summary><strong>💻 Web Development</strong></summary>
+  <ul>
+    <li><a href="https://github.com/JinLeeGG/Chat-with-Multiple-PDFs">Web Development 101 (CodePath)</a></li>
+  </ul>
+</details>
+<details>
+<summary><strong>📱 Android App Development</strong></summary>
+  <ul>
+    <li><a href="https://github.com/JinLeeGG/Chat-with-Multiple-PDFs">Android APP Development 101 (CodePath)</a></li>
+  </ul>
+</details>
 
 <br>
 <br>
@@ -132,48 +191,7 @@
 
 </a>
 
-<br>
-<br>
 
-
-
-<h1 align="center">🐱‍💻 My current Project 🐱‍💻</h1>  
-<h3>What I do? 💻</h3>
-<details>
-<summary>Discord Bot Development 📡 </summary>
-  <ul>
-    <li><a href="https://github.com/JinLeeGG/MadCodersDiscordBot">MadCodersDiscordBot</a></li>
-    <li><a href="https://github.com/JinLeeGG/DiscordBotYuiKa">YuikaBot</a></li>
-  </ul>
-</details>
-<details>
-<summary>Web Development Projects 🕸️ </summary>
-  <ul>
-    <li><a href="https://github.com/JinLeeGG/Personal_Portfolio-v1">GyuJin Lee's Portfolio-v1</a></li>
-    <li><a href="https://github.com/JinLeeGG/Personal_Portfolio_v2">GyuJin Lee's Portfolio-v2</a></li>
-  </ul>
-</details>
-
-<details>
-  <summary>C/C++ Projects ✅ </summary>
-  <ul>
-   <li><a href="https://github.com/JinLeeGG/TicTacToe_C_miniProject">Tic-Tac-Toe Game</a></li>
-  </ul>
-</details>
-
-<details>
-<summary>AI Projects</summary>
-  <ul>
-    <li><a href="https://github.com/JinLeeGG/Chat-with-Multiple-PDFs">Multiple PDF file AI agent</a></li>
-    <li><a href="https://github.com/JinLeeGG/Ollama-demo">Ollama Demo</a></li>
-    <li><a href="https://github.com/JinLeeGG/AI_Website_Analyzer">AI Website Analyzer</a></li>
-    <li><a href="https://github.com/JinLeeGG/GptAPI">ChatGPT API Use</a></li>
-  </ul>
-</details>
-
-
-<br>
-<br>
 
 
 <br>
