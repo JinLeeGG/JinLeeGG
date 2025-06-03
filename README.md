@@ -78,39 +78,41 @@
 <summary><strong>📊 Data Structures & Algorithms</strong></summary>
   <ul>
     <li><a href="https://github.com/JinLeeGG/Chat-with-Multiple-PDFs">Grokking the Coding Interview: Patterns for Coding Questions (Design Gurus)</a></li>
-    <li><a href="https://github.com/JinLeeGG/Chat-with-Multiple-PDFs">Coding Interview Prep (Korea IT Academy)</a></li>
-    <li><a href="https://github.com/JinLeeGG/Chat-with-Multiple-PDFs">Technical Interview Prep 101 (CodePath)</a></li>
-    <li><a href="https://github.com/JinLeeGG/Chat-with-Multiple-PDFs">Data Structure & Algorithm (Korea IT Academy)</a></li>
+    <li><a href="https://github.com/JinLeeGG/Python_CodingTest">Python Coding Test (Korea IT Academy)</a></li>
+    <li><a href="github.com">Technical Interview Prep 101 (CodePath)</a></li>
+    <li><a href="https://github.com/JinLeeGG/Python_DataStructue-Algoritms">Data Structure & Algorithm (Korea IT Academy)</a></li>
   </ul>
 </details>
 <details>
 <summary><strong>🌐 Network</strong></summary>
   <ul>
-    <li><a href="https://github.com/JinLeeGG/Chat-with-Multiple-PDFs">CCNA/Network Fundamentals</a></li>
+    <li><a href="https://github.com/JinLeeGG/CCNA_Network">CCNA & Network Fundamentals (Korea IT Academy)</a></li>
   </ul>
 </details>
 <details>
 <summary><strong>🤖 AI/ML</strong></summary>
   <ul>
-    <li><a href="https://github.com/JinLeeGG/Chat-with-Multiple-PDFs">AI & Computer Vision Project (Korea IT Academy)</a></li>
+    <li><a href="https://github.com/JinLeeGG/AI_Project_Preparation">AI & Computer Vision Project (Korea IT Academy)</a></li>
   </ul>
 </details>
 <details>
 <summary><strong>🧠 Large Language Models</strong></summary>
   <ul>
-    <li><a href="https://github.com/JinLeeGG/Chat-with-Multiple-PDFs">Mastering Generative AI and LLMs: An 8-Week Hands-On Journey (Udemy)</a></li>
+    <li><a href="github.com">Mastering Generative AI and LLMs: An 8-Week Hands-On Journey (Udemy)</a></li>
   </ul>
 </details>
 <details>
 <summary><strong>💻 Web Development</strong></summary>
   <ul>
-    <li><a href="https://github.com/JinLeeGG/Chat-with-Multiple-PDFs">Web Development 101 (CodePath)</a></li>
+    <li><a href="github.com">Web Development 101 (CodePath)</a></li>
+    <li><a href="https://github.com/JinLeeGG/MongoDB">MongoDB demo</a></li>
+    <li><a href="https://github.com/JinLeeGG/FastAPI">FastAPI demo</a></li>
   </ul>
 </details>
 <details>
 <summary><strong>📱 Android App Development</strong></summary>
   <ul>
-    <li><a href="https://github.com/JinLeeGG/Chat-with-Multiple-PDFs">Android APP Development 101 (CodePath)</a></li>
+    <li><a href="github.com">Android APP Development 101 (CodePath)</a></li>
   </ul>
 </details>
 
