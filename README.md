@@ -32,35 +32,38 @@
 
 
 
-<h1 align="center">🧑🏻‍💻 My current Project 🧑🏻‍💻</h1>  
+<h1 align="center" style="font-size: 2em;">🧑🏻‍💻 Toy Projects 🧑🏻‍💻</h1>
+
 <details>
-<summary>AI Projects</summary>
-  <ul>
+  <summary style="font-size: 1.2em;"><strong>AI Projects 🤖</strong></summary>
+  <ul style="font-size: 1em;">
     <li><a href="https://github.com/JinLeeGG/Chat-with-Multiple-PDFs">Multiple PDF file AI agent</a></li>
     <li><a href="https://github.com/JinLeeGG/Ollama-demo">Ollama Demo</a></li>
     <li><a href="https://github.com/JinLeeGG/AI_Website_Analyzer">AI Website Analyzer</a></li>
     <li><a href="https://github.com/JinLeeGG/GptAPI">ChatGPT API Use</a></li>
   </ul>
 </details>
+
 <details>
-<summary>Discord Bot Development 📡 </summary>
-  <ul>
+  <summary style="font-size: 1.2em;"><strong>Discord Bot Development 📡</strong></summary>
+  <ul style="font-size: 1em;">
     <li><a href="https://github.com/JinLeeGG/MadCodersDiscordBot">MadCodersDiscordBot</a></li>
     <li><a href="https://github.com/JinLeeGG/DiscordBotYuiKa">YuikaBot</a></li>
   </ul>
 </details>
+
 <details>
-<summary>Web Development Projects 🕸️ </summary>
-  <ul>
+  <summary style="font-size: 2em;"><strong>Web Development Projects 🕸️</strong></summary>
+  <ul style="font-size: 1em;">
     <li><a href="https://github.com/JinLeeGG/Personal_Portfolio-v1">GyuJin Lee's Portfolio-v1</a></li>
     <li><a href="https://github.com/JinLeeGG/Personal_Portfolio_v2">GyuJin Lee's Portfolio-v2</a></li>
   </ul>
 </details>
 
 <details>
-  <summary>C/C++ Projects ✅ </summary>
-  <ul>
-   <li><a href="https://github.com/JinLeeGG/TicTacToe_C_miniProject">Tic-Tac-Toe Game</a></li>
+  <summary style="font-size: 1.2em;"><strong>C/C++ Projects ✅</strong></summary>
+  <ul style="font-size: 1em;">
+    <li><a href="https://github.com/JinLeeGG/TicTacToe_C_miniProject">Tic-Tac-Toe Game</a></li>
   </ul>
 </details>
 
