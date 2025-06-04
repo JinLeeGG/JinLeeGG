@@ -58,8 +58,6 @@ const GyuJinLee = {
   <summary style="font-size: 1.2em;"><strong>🤖 AI Projects</strong></summary>
   <ul style="font-size: 1em;">
     <li><a href="https://github.com/JinLeeGG/Chat-with-Multiple-PDFs">Multiple PDF file AI agent</a></li>
-    <li><a href="https://github.com/JinLeeGG/Ollama-demo">Ollama Demo</a></li>
-    <li><a href="https://github.com/JinLeeGG/GptAPI">ChatGPT API Use</a></li>
   </ul>
 </details>
 
@@ -117,8 +115,10 @@ const GyuJinLee = {
 <details>
 <summary><strong>🧠 Large Language Models</strong></summary>
   <ul>
+    <li><a href="https://github.com/JinLeeGG/Ollama-demo">Ollama Demo</a></li>
     <li><a href="https://github.com/JinLeeGG/Ollama_Web_Analyzer">Ollama Web Analyzer</a></li>
-      <li><a href="https://github.com/JinLeeGG/AI_Website_Analyzer">ChatGPT API Website Analyzer</a></li>
+    <li><a href="https://github.com/JinLeeGG/GptAPI">ChatGPT API Use</a></li>
+    <li><a href="https://github.com/JinLeeGG/AI_Website_Analyzer">ChatGPT API Website Analyzer</a></li>
   </ul>
 </details>
 <details>
