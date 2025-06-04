@@ -99,7 +99,7 @@ const GyuJinLee = {
   <ul>
     <li><a href="https://github.com/JinLeeGG/Chat-with-Multiple-PDFs">Grokking the Coding Interview: Patterns for Coding Questions (Design Gurus)</a></li>
     <li><a href="https://github.com/JinLeeGG/Python_CodingTest">Python Coding Test (Korea IT Academy)</a></li>
-    <li><a href="github.com">Technical Interview Prep 101 (CodePath)</a></li>
+    <li><a href="https://github.com/JinLeeGG/Technical-Interview-Prep-101-CodePath-">Technical Interview Prep 101 (CodePath)</a></li>
     <li><a href="https://github.com/JinLeeGG/Python_DataStructue-Algoritms">Data Structure & Algorithm (Korea IT Academy)</a></li>
   </ul>
 </details>
