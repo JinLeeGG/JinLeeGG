@@ -58,6 +58,7 @@ const GyuJinLee = {
   <summary style="font-size: 1.2em;"><strong>🤖 AI Projects</strong></summary>
   <ul style="font-size: 1em;">
     <li><a href="https://github.com/JinLeeGG/Chat-with-Multiple-PDFs">Multiple PDF file AI agent</a></li>
+    <li><a href="https://github.com/JinLeeGG/BRS/tree/main">Book Recommendation System powered by Crawling and GPT</a></li>
   </ul>
 </details>
 
