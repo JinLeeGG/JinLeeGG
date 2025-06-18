@@ -133,7 +133,7 @@ const GyuJinLee = {
 <details>
 <summary><strong>🐳 Docker</strong></summary>
   <ul>
-    <li><a href="github.com">Docker (Korea IT Academy)</a></li>
+    <li><a href="https://github.com/JinLeeGG/Docker/tree/main">Docker (Korea IT Academy)</a></li>
   </ul>
 </details>
 
