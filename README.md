@@ -95,10 +95,10 @@ const GyuJinLee = {
 <details>
 <summary><strong>📊 Data Structures & Algorithms</strong></summary>
   <ul>
-    <li><a href="https://github.com/JinLeeGG/Chat-with-Multiple-PDFs">Grokking the Coding Interview: Patterns for Coding Questions (Design Gurus)</a></li>
+    <li><a href="https://github.com/JinLeeGG/Python_DataStructue-Algoritms">Data Structure & Algorithm (Korea IT Academy)</a></li>
     <li><a href="https://github.com/JinLeeGG/Python_CodingTest">Python Coding Test (Korea IT Academy)</a></li>
     <li><a href="https://github.com/JinLeeGG/Technical_Interview_Prep102_CodePath">Technical Interview Prep 102 (CodePath)</a></li>
-    <li><a href="https://github.com/JinLeeGG/Python_DataStructue-Algoritms">Data Structure & Algorithm (Korea IT Academy)</a></li>
+    <li><a href="https://github.com/JinLeeGG/Grokking-the-Coding-Interview-Patterns-for-Coding-Questions">Grokking the Coding Interview: Patterns for Coding Questions (Design Gurus)</a></li>
   </ul>
 </details>
 <details>
@@ -131,9 +131,9 @@ const GyuJinLee = {
   </ul>
 </details>
 <details>
-<summary><strong>📱 Android App Development</strong></summary>
+<summary><strong>🐳 Docker</strong></summary>
   <ul>
-    <li><a href="github.com">Android APP Development 101 (CodePath)</a></li>
+    <li><a href="github.com">Docker (Korea IT Academy)</a></li>
   </ul>
 </details>
 
