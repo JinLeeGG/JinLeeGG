@@ -137,6 +137,12 @@ const GyuJinLee = {
   </ul>
 </details>
 
+<summary><strong>☕ Java</strong></summary>
+  <ul>
+    <li><a href="https://github.com/JinLeeGG/Java">Java(Korea IT Academy)</a></li>
+  </ul>
+</details>
+
 <br>
 <br>
 
