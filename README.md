@@ -42,6 +42,7 @@ const GyuJinLee = {
     "Mastering advanced data structures and algorithms",
     "Deepening understanding of AI/ML frameworks",
     "Building impactful software solutions"
+    "Learning Java, Docker, Numpy, Pandas, Web dev"
   ]
 };
 ```
