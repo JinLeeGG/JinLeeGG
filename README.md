@@ -64,6 +64,14 @@ const GyuJinLee = {
 </details>
 
 <details>
+  <summary style="font-size: 1.2em;"><strong>📊 Data Analysis</strong></summary>
+  <ul style="font-size: 1em;">
+    <li><a href="https://github.com/JinLeeGG/DataAnalysis_Starbucks/tree/main">Coffee Franchise Location Strategy Analysis (Korea Starbucks and competitors)</a></li>
+  </ul>
+</details>
+
+
+<details>
   <summary style="font-size: 1.2em;"><strong>📡 Discord Bot Development </strong></summary>
   <ul style="font-size: 1em;">
     <li><a href="https://github.com/JinLeeGG/MadCodersDiscordBot">MadCodersDiscordBot</a></li>
