@@ -134,7 +134,7 @@ const GyuJinLee = {
 <details>
 <summary><strong>💻 Web Development</strong></summary>
   <ul>
-    <li><a href="github.com">Web Development 101 (CodePath)</a></li>
+    <li><a href="https://github.com/JinLeeGG/Dickinson_KSA">Web Development 101 (CodePath)</a></li>
     <li><a href="https://github.com/JinLeeGG/MongoDB">MongoDB demo</a></li>
     <li><a href="https://github.com/JinLeeGG/FastAPI">FastAPI demo</a></li>
   </ul>
