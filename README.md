@@ -1,5 +1,5 @@
 
-<img src="https://github.com/JinLeeGG/JinLeeGG/blob/main/My project.png" />
+<img src="https://github.com/JinLeeGG/JinLeeGG/blob/main/My project.png" /> 
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=jinleegg&label=Profile%20views&color=0e75b6&style=flat" alt="jinleegg" /> </p>   
 
