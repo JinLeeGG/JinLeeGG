@@ -131,6 +131,7 @@ const GyuJinLee = {
     <li><a href="https://github.com/JinLeeGG/AI_Website_Analyzer">ChatGPT API Website Analyzer</a></li>
   </ul>
 </details>
+
 <details>
 <summary><strong>💻 Web Development</strong></summary>
   <ul>
